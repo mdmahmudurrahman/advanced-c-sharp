@@ -1,0 +1,6 @@
+F:\Source code_10_10_2012\C sharp\AnonymousMethodDemo\AnonymousMethodDemo\bin\Debug\AnonymousMethodDemo.exe.config
+F:\Source code_10_10_2012\C sharp\AnonymousMethodDemo\AnonymousMethodDemo\bin\Debug\AnonymousMethodDemo.exe
+F:\Source code_10_10_2012\C sharp\AnonymousMethodDemo\AnonymousMethodDemo\bin\Debug\AnonymousMethodDemo.pdb
+F:\Source code_10_10_2012\C sharp\AnonymousMethodDemo\AnonymousMethodDemo\obj\Debug\AnonymousMethodDemo.csprojResolveAssemblyReference.cache
+F:\Source code_10_10_2012\C sharp\AnonymousMethodDemo\AnonymousMethodDemo\obj\Debug\AnonymousMethodDemo.exe
+F:\Source code_10_10_2012\C sharp\AnonymousMethodDemo\AnonymousMethodDemo\obj\Debug\AnonymousMethodDemo.pdb
